@@ -9,9 +9,9 @@ Made in KiCad v9.
 
 There are two "competing" versions that are .. workable.
 
-The stock (no suffix) version, and the "cpr" version.
+The stock (no suffix) version, and the "cpr" version. The CPR version can be located in Other_Attempts.
 
-Both version pass DRC, however the cpr might have better signal integrity. Or worse.
+Both version pass DRC, however the CPR version might have better signal integrity. Less vias on the clock trace. Or worse, due to the wrap around.
 
 TODO:
 1. Tune differential pair skew
